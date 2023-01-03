@@ -1,4 +1,4 @@
-# product-management-resources
+# Product Management Resources
 My repository of useful stuff about product management
 
 ## Books
@@ -19,6 +19,8 @@ My repository of useful stuff about product management
 
 
 ## Newsletters and Podcasts
+
+[_Silicon Valley Product Group_](https://www.svpg.com)
 
 [_Lenny's Newsletter_](https://www.lennysnewsletter.com)
 
