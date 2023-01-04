@@ -28,6 +28,8 @@ Most digital teams are cross-functional. At the core are the product trio of pro
 
 An opportunity-solution tree can be used to visualise the hierarchy of biz outcome -> opportunities -> possible solutions. As you go down the opportunites get smaller and more team-sized. Solve project-sized opportunities by solving multiple smaller ones.
 
+![alt](images/tt_3.jpg)
+
 Don't ask 'should we do this or not'. Ask 'which is most important to do now'. Balance confidence with doubt. Avoid analysis paralysis by keeping the cost of decisions small and try to make them two-way doors. 
 
 ## Ch3 | Outcomes over outputs
@@ -49,13 +51,20 @@ Patterns to avoid:
 
 ## Ch4 | Visualising what you know
 
-When working with a new outcome it can be difficult to know where to start. Map out your customer's experience as it is today. You can try doing this individually to uncover different starting perspectives. Limit scope by starting with the desired outcome. This should be narrow for an optimisation outcome and broader for a more open-ended product one. Start individually to avoid groupthink. Be visual, not verbal. Draw the customer's experience, not your existing product UI. Share and ask questions. To sythesise, turn each map into nodes and links, create a map that includes all individual nodes, collapsing duplicates. Patterns to avoid: Getting bogged down in endless debate; using words instead of visuals; assuming your map is true, forgetting to refine and evolve as you learn more.
+When working with a new outcome it can be difficult to know where to start. Map out your customer's experience as it is today. You can try doing this individually to uncover different starting perspectives. Limit scope by starting with the desired outcome. This should be narrow for an optimisation outcome and broader for a more open-ended product one. Start individually to avoid groupthink. Be visual, not verbal. Draw the customer's experience, not your existing product UI. Share and ask questions. To sythesise, turn each map into nodes and links, create a map that includes all individual nodes, collapsing duplicates. 
+
+![alt](images/tt_1.jpg)
+
+Patterns to avoid: Getting bogged down in endless debate; using words instead of visuals; assuming your map is true, forgetting to refine and evolve as you learn more.
+
 
 ## Ch5 | Continous interviewing
 
 The purpose of talking to customers is not to ask customers what you should build, but to discover and explore opportunities. Asking customers direct questions about their behaviour is likely to yield how they _think_ they behave rather than how they actually do. Ask them to share stories instead - "Tell me about the last time you bought a pair of jeans". Balance exploring customer needs and pain points with the opportunity you need to learn about.
 
 Synthesise as you go. Make one-page interview snapshots. These include a visual reminder, a memorable quote, some context, a summary of insights and opportunities. If they suggest a feature, ask why they want it and capture the need. Draw the stories you hear.
+
+![alt](images/tt_2.jpg)
 
 Make interviewing a weekly habit. Have a regular slot and automate recruiting. You can do this by asking people while they are using your product in returm for some reward. Or ads. Use tools like calendly. You can recruit via customer services or sales. With a hard to reach audience, you could use a customer advisory board. The risk is that you'll end up designing for that small group. Interview as a team.
 
@@ -72,10 +81,12 @@ Interview snapshot template p84.
 
 Each gap between what your customers expect and how the world works represents a potential opportunity. But there can be so many it feels overwheming, you can't address all of them. Picking the ones that drive the outcome you are looking for is how we create business value. The goal should be to address the opportunities that have the biggest impact on this outcome first. To do this, start by taking an inventory of the possibilities. Drawing an opportunity solution tree helps organise them, find relationships and break them down into smaller pieces. Breaking problems into smaller pieces allows us to tackle problems that seem unsolvable and deliver value iteratively over time.
 
+![alt](images/tt_4.jpg)
+
 Each opportunity should be distinct. Use steps of your experience map or identify key moments in time. Capture what you understand today and revisit as your knowledge grows. 
 
 Patterns to avoid:
- * Opporetunites framed from your organisation's perspective
+ * Opportunites framed from your organisation's perspective
  * Vertical opportunities where each child has only one child
  * Opportunities with more than one parent - these are too broad
  * Opportunities which are not specific or just sentiments - e.g. 'I wish this was easy to use'
