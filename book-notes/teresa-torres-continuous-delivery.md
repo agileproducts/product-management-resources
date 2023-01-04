@@ -124,3 +124,52 @@ Patterns to avoid:
  * Generating too many variations on the same idea
  * Limiting ideation to one session
  * Selecting ideas that don't address the target opportunity (remove at dot voting)
+
+## Ch 9 | Identifying hidden assumptions
+
+Every product team has at some point found themselves realising they have built the wrong product. We are subject to cognitive biases like _confirmation_ and _escalation of commitment_. We need to be prepared to be wrong.
+
+When working with a set of **ideas** we can't afford to just build them all and AB test the lot. Instead we should identify and test the **assumptions** that support those ideas. 
+
+Types of assumption include:
+
+* Desirability - do people want it?
+* Viability - should we build it?
+* Feasibilty - can we build it?
+* Usability - will users understand it?
+* Ethical - could it be harmful?
+
+To identify assumptions we need to agree what an idea actually is. Story maps can help clarify this.
+
+![alt](images/tt_5.jpg)
+
+Other useful techniques for identifying assumptions include pre-mortems and walking back through your opportunity-solution tree to add _why_ your solution will drive the product or business outcome.
+
+A great way to uncover ethical assumptions is to ask yourself what it would be like if a news organisation ran a story about your internal conversations that led to the creation of your product.
+
+Prioritise assumptions by mappping them along two dimensions. Start by testing those which are most important and have the least supporting evidence.
+
+![alt](images/tt_6.jpg)
+
+Patterns to avoid:
+ * Not generating enough assumptions
+ * Phrasing your assumptions negatively - e.g. 'users won't remember their password
+ * Not being specific enough - e.g. 'customers will have time'
+ * Favouring one category at the expense of others - e.g. usability over desirability
+
+## Ch 10 | Testing assumptions, not ideas
+
+It's important to remember that we should be aiming to choose between about three different ideas. We should be testing the assumptions behind each, not validating our favourite one. But some of these ideas will share common assumptions.
+
+Simulate the experience to see what people do, don't just ask people. Be specific about what success looks like, the proportion of users who exhibit the desired behaviour. 
+
+Starting small and quick is a way to derisk an assumption. If after that it is still our riskiest assumption on the map, it's worth investing in a more involved test. Stop when enough risk is removed or the effort involved to test further is so great we should just build it.
+
+Two tools that sholud be available to every team are unmoderated user testing services and one-question surveys. 
+
+Patterns to avoid:
+* Overly complex simulations
+* Using percentages rather than absolute numbers, e.g. 7 out of 10
+* Not defining enough evaluation criteria - e.g. acting on an email needs receive, open, click
+* Designing for a sub-optimal scenario - e.g. testing with already tough audiences
+
