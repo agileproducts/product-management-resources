@@ -3,7 +3,7 @@
 ## Ch 1
 All product teams do a set of activites to decide what to build and then do a different set of activities to build and deliver it. The former is discovery, the latter is delivery.
 
-Discovery should be a continious process. In the past business leaders just told teams what to build. Discovery happened in annual budget processes. Agile shortened delivery cycles, but business leaders still clung to dictat/discovery, teams using processes like scrum weren't able to iterate, 'usability testing' happened at the end. Now that technology supports frequent or continuous releases and better instrumentation we are able to continously measure impact, and this encourages and empowers teams to take ownership of discovery.
+Discovery should be a continous process. In the past business leaders just told teams what to build. Discovery happened in annual budget processes. Agile shortened delivery cycles, but business leaders still clung to dictat/discovery, teams using processes like scrum weren't able to iterate, 'usability testing' happened at the end. Now that technology supports frequent or continuous releases and better instrumentation we are able to continously measure impact, and this encourages and empowers teams to take ownership of discovery.
 
 To do continuous discovery successfully requires six prerequiste mindsets:
 
